@@ -22,6 +22,7 @@ pip install -r requirements.txt
 
 ### Environment Configuration
 
+
 Create a `.env` file in the root of your project and include the following configurations:
 ```
 DATABASE_URL=<your_database_url>

@@ -16,14 +16,13 @@ git clone https://github.com/marciovrl/fastapi-example.git
 ### Install dependencies
 
 ```
-
 pip install -r requirements.txt
 ```
 
 ### Environment Configuration
 
-Create a `.env` file in the root of your project and include the following configurations:
 
+Create a `.env` file in the root of your project and include the following configurations:
 ```
 DATABASE_URL=<your_database_url>
 REDIS_URL=<your_redis_url>
